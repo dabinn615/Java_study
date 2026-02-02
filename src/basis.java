@@ -12,8 +12,3 @@ import java.util.Scanner; //입력받기위해 꼭 필요
         //println은 줄바꿈 댐, print는 줄바꿈 안댐
     }
 }
-
-
-
-
-
